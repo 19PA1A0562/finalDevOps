@@ -1,5 +1,3 @@
-package com.training.example.JacocoExample;
-
 public class Palindrome {
 	
 	public boolean isPalindrome(String inputString) {
